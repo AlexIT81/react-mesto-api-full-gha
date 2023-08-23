@@ -15,10 +15,10 @@
 
 ## Ссылки на проект
 
-IP-адрес: 158.160.107.144
+IP 158.160.107.144
 
-[Frontend](https://front.alexit81.nomoredomainsicu.ru)
+Frontend [https://front.alexit81.nomoredomainsicu.ru](https://front.alexit81.nomoredomainsicu.ru)
 
-[Backend](https://api.front.alexit81.nomoredomainsicu.ru)
+Backend [https://api.front.alexit81.nomoredomainsicu.ru](https://api.front.alexit81.nomoredomainsicu.ru)
 
 Адрес репозитория: [https://alexit81.github.io/react-mesto-auth/](https://alexit81.github.io/react-mesto-auth/)
