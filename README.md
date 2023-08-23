@@ -1,16 +1,24 @@
 [![Статус тестов](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
-# react-mesto-api-full
-Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
-  
-Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
+# Проект Mesto(15 ПР - finall)
+Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями.
 
-Адрес репозитория: https://github.com/...
+## Используемые технологии
+* HTML
+* CSS
+* JAVASCRIPT
+* NODE JS
+* REACT
+* REACT ROUTER
+* Express
+* MONGODB
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес: 158.160.107.144
 
-Frontend https://...
+[Frontend](https://front.alexit81.nomoredomainsicu.ru)
 
-Backend https://...
+[Backend](https://api.front.alexit81.nomoredomainsicu.ru)
+
+Адрес репозитория: [https://alexit81.github.io/react-mesto-auth/](https://alexit81.github.io/react-mesto-auth/)

@@ -1,0 +1,12 @@
+.profile__info-wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 336px;
+  row-gap: 7px;
+}
+
+@media (max-width: 730px) {
+  .profile__info-wrapper {
+    width: 282px;
+  }
+}

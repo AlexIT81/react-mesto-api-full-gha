@@ -1,0 +1,10 @@
+.element {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: stretch;
+  background-color: #ffffff;
+  border-radius: 10px;
+  gap: 22px;
+}

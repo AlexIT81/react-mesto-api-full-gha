@@ -1,0 +1,9 @@
+.header__burger-btn {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: url(../../../images/burger-menu-btn.svg) center no-repeat;
+  width: 24px;
+  height: 22px;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.element__block {
+  padding: 0 20px 19px 21px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}

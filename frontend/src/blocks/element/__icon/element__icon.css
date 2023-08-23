@@ -1,0 +1,12 @@
+.element__icon {
+  width: 22px;
+  height: 19px;
+  background: center no-repeat url(../../../images/not-liked.svg);
+  background-size: 22px 19px;
+  border: 0;
+  cursor: pointer;
+  transition: .3s linear;
+}
+.element__icon:hover {
+  opacity: .5;
+}

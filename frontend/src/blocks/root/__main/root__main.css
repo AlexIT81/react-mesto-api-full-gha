@@ -1,0 +1,14 @@
+.root__main {
+  width: 100%;
+  min-height: calc(100vh - 162px - 82px);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+@media (max-width: 619px) {
+  .root__main {
+    min-height: calc(100vh - 126px - 50px);
+  }
+}

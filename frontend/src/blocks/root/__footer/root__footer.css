@@ -1,0 +1,10 @@
+.root__footer {
+  width: 100%;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 619px) {
+  .root__footer {
+    margin-bottom: 33px;
+  }
+}

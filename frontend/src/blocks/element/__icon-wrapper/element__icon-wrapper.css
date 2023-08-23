@@ -1,0 +1,5 @@
+.element__icon-wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 3px;
+}

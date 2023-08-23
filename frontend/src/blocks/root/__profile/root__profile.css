@@ -1,0 +1,11 @@
+.root__profile {
+  width: 100%;
+  margin-bottom: 51px;
+  position: relative;
+}
+
+@media (max-width: 619px) {
+  .root__profile {
+    margin-bottom: 36px;
+  }
+}

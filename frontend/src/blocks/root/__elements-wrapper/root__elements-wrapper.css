@@ -1,0 +1,10 @@
+.root__elements-wrapper {
+  width: 100%;
+  margin-bottom: 67px;
+}
+
+@media (max-width: 619px) {
+  .root__elements-wrapper {
+    margin-bottom: 48px;
+  }
+}

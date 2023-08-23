@@ -1,0 +1,15 @@
+.profile {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+}
+
+@media (max-width: 730px) {
+  .profile {
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+  }
+}
