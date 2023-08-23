@@ -1,1 +1,1 @@
-export const apiUrl = "http://localhost:3000";
+export const apiUrl = "https://api.front.alexit81.nomoredomainsicu.ru";
